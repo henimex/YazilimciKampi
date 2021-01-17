@@ -48,7 +48,7 @@ namespace ClassMetotDemo
             }
             Console.WriteLine("Müşteriler : -----------\n");
 
-            cm.ChangeLimit(customer1, 11000);
+            cm.ChangeLimit(customer1, 9000);
 
             cm.HesabıDondur(customer2);
         }
