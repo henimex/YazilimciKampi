@@ -20,6 +20,7 @@ namespace ClassMetotDemo
             Console.WriteLine("Sayın " + customer.Name + customer.Surname + " Hesap Bilgileriniz : ");
             Console.WriteLine("Hesap Numaranız : " + customer.AccNumber);
             Console.WriteLine(customer.MaxLimit + " Olan Kredi Limitiniz : " + newLimit + " olarak güncellenmiştir.");
+            
             if (customer.MaxLimit < newLimit)
             {
                 SendSms(customer, yukseltmeSms);

@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerveReferansTipler", "De
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{1EE765F6-DD30-4EF6-AE1D-7A942EC5633D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoOdevler", "VideoOdevler\VideoOdevler.csproj", "{11980701-B26A-440C-90F7-A9EF97A45C40}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{1EE765F6-DD30-4EF6-AE1D-7A942EC5633D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1EE765F6-DD30-4EF6-AE1D-7A942EC5633D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1EE765F6-DD30-4EF6-AE1D-7A942EC5633D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11980701-B26A-440C-90F7-A9EF97A45C40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11980701-B26A-440C-90F7-A9EF97A45C40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11980701-B26A-440C-90F7-A9EF97A45C40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11980701-B26A-440C-90F7-A9EF97A45C40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
