@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metodlar", "Metodlar\Metodl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerveReferansTipler", "DegerveReferansTipler\DegerveReferansTipler.csproj", "{32339308-BA3A-4AC5-8130-0B677FA0C9A2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{1EE765F6-DD30-4EF6-AE1D-7A942EC5633D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{32339308-BA3A-4AC5-8130-0B677FA0C9A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32339308-BA3A-4AC5-8130-0B677FA0C9A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32339308-BA3A-4AC5-8130-0B677FA0C9A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EE765F6-DD30-4EF6-AE1D-7A942EC5633D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EE765F6-DD30-4EF6-AE1D-7A942EC5633D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EE765F6-DD30-4EF6-AE1D-7A942EC5633D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EE765F6-DD30-4EF6-AE1D-7A942EC5633D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
