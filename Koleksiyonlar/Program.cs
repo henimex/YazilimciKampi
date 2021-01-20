@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Koleksiyonlar
 {
@@ -6,7 +7,10 @@ namespace Koleksiyonlar
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            List<string> isimler = new List<string>{"Ahmet", "Mehmet", "Ferhat", "Ali"};
+            Console.WriteLine(isimler[0]);
+            isimler.Add("Mahmut");
+
         }
     }
 }
