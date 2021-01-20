@@ -52,7 +52,9 @@ namespace ClassMetotDemo
 
             cm.HesabıDondur(customer2);
 
-            cm.ChangeLimit(custo)
+            cm.ChangeLimit(customer4, 2000);
+
+            cm.HesabıDondur(customer3);
         }
     }
 }
