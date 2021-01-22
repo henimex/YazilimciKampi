@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferanceTipler", "Referanc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorYapisiDers", "ConstructorYapisiDers\ConstructorYapisiDers.csproj", "{96DEA4F3-3936-4E08-992C-161400032D3B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericDers2", "GenericDers2\GenericDers2.csproj", "{139C2F3E-12B8-40A9-AB37-A7BB13F9600C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryKullanimi", "DictionaryKullanimi\DictionaryKullanimi.csproj", "{40851E17-62B3-4C24-A6A3-DF87AAD6A383}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,14 @@ Global
 		{96DEA4F3-3936-4E08-992C-161400032D3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96DEA4F3-3936-4E08-992C-161400032D3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96DEA4F3-3936-4E08-992C-161400032D3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{139C2F3E-12B8-40A9-AB37-A7BB13F9600C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{139C2F3E-12B8-40A9-AB37-A7BB13F9600C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{139C2F3E-12B8-40A9-AB37-A7BB13F9600C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{139C2F3E-12B8-40A9-AB37-A7BB13F9600C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40851E17-62B3-4C24-A6A3-DF87AAD6A383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40851E17-62B3-4C24-A6A3-DF87AAD6A383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40851E17-62B3-4C24-A6A3-DF87AAD6A383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40851E17-62B3-4C24-A6A3-DF87AAD6A383}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
