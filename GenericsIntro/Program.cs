@@ -11,11 +11,16 @@ namespace GenericsIntro
             NewList<string> benimListem = new NewList<string>();
             benimListem.Add("Ferhat");
 
-            NewList<string> ikinciListem;
-            ikinciListem.Add("deneme");
+            Console.WriteLine(benimListem.Length);
 
-            Console.ReadLine();
+            benimListem.Add("Dilek");
+            Console.WriteLine(benimListem.Length);
 
+
+            foreach (var item in benimListem.Items)
+            {
+                Console.WriteLine(item);
+            }
         }
     }
 }
